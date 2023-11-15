@@ -1,0 +1,395 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/2-2/COMEX/week4/cla_clk/simulation/modelsim
+v_and2
+Z1 !s110 1664894743
+!i10b 1
+!s100 =jIie<;;Y91JO:jJWmLYF2
+ITD>K:F]odjEA5C2fMkAba1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1664850342
+Z4 8C:/2-2/COMEX/week4/cla_clk/gates.v
+Z5 FC:/2-2/COMEX/week4/cla_clk/gates.v
+L0 22
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1664894743.000000
+Z8 !s107 C:/2-2/COMEX/week4/cla_clk/gates.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/2-2/COMEX/week4/cla_clk|C:/2-2/COMEX/week4/cla_clk/gates.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work +incdir+C:/2-2/COMEX/week4/cla_clk
+Z12 tCvgOpt 0
+n@_and2
+v_and3
+R1
+!i10b 1
+!s100 ac9U69ji63PiW0P3SK`8O2
+IGEnD8nj?[S>d64TlWWC3z0
+R2
+R0
+R3
+R4
+R5
+L0 60
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and3
+v_and4
+R1
+!i10b 1
+!s100 EL2JT0Z9Q`PH=J>cjkIj:2
+I4UWJ;:J[^YDUegnCh=]9b1
+R2
+R0
+R3
+R4
+R5
+L0 69
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and4
+v_and5
+R1
+!i10b 1
+!s100 ]IjAH@B]nHVfiYg2mLWdk3
+IC;g^O3S3O_dQmag8`[e1h1
+R2
+R0
+R3
+R4
+R5
+L0 78
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_and5
+v_inv
+R1
+!i10b 1
+!s100 4;=_D^gSTGhW]21m=@RG@1
+I8hMoW_>8J2:fAWjboiCk:2
+R2
+R0
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_inv
+v_nand2
+R1
+!i10b 1
+!s100 zbOc1RLke`l00IbKUfIe;1
+IL2UQb7<NP44mZFHoA9k_b1
+R2
+R0
+R3
+R4
+R5
+L0 12
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_nand2
+v_or2
+R1
+!i10b 1
+!s100 NMC2XhUG?m18G]dXUkeS[3
+I7E61iPZPdI=d^JESUcMKl3
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or2
+v_or3
+R1
+!i10b 1
+!s100 JAZ3`YRQQmn7D2Gc^C7N@3
+I61T[db=XBAFj3MiYJbnW;2
+R2
+R0
+R3
+R4
+R5
+L0 87
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or3
+v_or4
+R1
+!i10b 1
+!s100 A:niBC1HYB`e>nB`AEm9?1
+Io[AYlD=kPGT^[ElgA5B792
+R2
+R0
+R3
+R4
+R5
+L0 96
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or4
+v_or5
+R1
+!i10b 1
+!s100 ?6KXf_Wkm`foH5z=:zff51
+IFmdAO>[cTCahV`lk5mFVH3
+R2
+R0
+R3
+R4
+R5
+L0 105
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_or5
+v_xor2
+R1
+!i10b 1
+!s100 D6:4zcDCDl>Ujl7zM;[1<1
+IDoRRz1Ah816^mT2f=3gN=1
+R2
+R0
+R3
+R4
+R5
+L0 43
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@_xor2
+vfa
+R1
+!i10b 1
+!s100 =hz:]:bP[aH]dXz:L@gZl0
+ImA39I@cYSz>HD4906dkm83
+R2
+R0
+w1664884230
+8C:/2-2/COMEX/week4/cla_clk/fa.v
+FC:/2-2/COMEX/week4/cla_clk/fa.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/2-2/COMEX/week4/cla_clk/fa.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/2-2/COMEX/week4/cla_clk|C:/2-2/COMEX/week4/cla_clk/fa.v|
+!i113 1
+R10
+R11
+R12
+vha
+R1
+!i10b 1
+!s100 hhMJhg>D_G8gT?1Oeoe_:0
+I4_nLc@H7nDzCZ@8[XC_TN3
+R2
+R0
+w1664884255
+8C:/2-2/COMEX/week4/cla_clk/ha.v
+FC:/2-2/COMEX/week4/cla_clk/ha.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/2-2/COMEX/week4/cla_clk/ha.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/2-2/COMEX/week4/cla_clk|C:/2-2/COMEX/week4/cla_clk/ha.v|
+!i113 1
+R10
+R11
+R12
+vrca32
+R1
+!i10b 1
+!s100 [`Y8mgPJln@mGAV3]L23U1
+In<E@EZSE@FEWg2h50b>8:1
+R2
+R0
+w1664887160
+8C:/2-2/COMEX/week4/cla_clk/rca32.v
+FC:/2-2/COMEX/week4/cla_clk/rca32.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/2-2/COMEX/week4/cla_clk/rca32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/2-2/COMEX/week4/cla_clk|C:/2-2/COMEX/week4/cla_clk/rca32.v|
+!i113 1
+R10
+R11
+R12
+vrca4
+R1
+!i10b 1
+!s100 lRgBXgNdQiem<68TEE?AO3
+IdiShdE]?H9jP6lS7W`PKc2
+R2
+R0
+w1664884183
+8C:/2-2/COMEX/week4/cla_clk/rca4.v
+FC:/2-2/COMEX/week4/cla_clk/rca4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/2-2/COMEX/week4/cla_clk/rca4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/2-2/COMEX/week4/cla_clk|C:/2-2/COMEX/week4/cla_clk/rca4.v|
+!i113 1
+R10
+R11
+R12
+vrca_clk
+Z13 !s110 1664894744
+!i10b 1
+!s100 E5_OJe[Cg^XD0mZb5_HlC3
+Ie9XmMQdm26c_I9oPF;dj61
+R2
+R0
+w1664884645
+8C:/2-2/COMEX/week4/cla_clk/rca_clk.v
+FC:/2-2/COMEX/week4/cla_clk/rca_clk.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1664894744.000000
+!s107 C:/2-2/COMEX/week4/cla_clk/rca_clk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/2-2/COMEX/week4/cla_clk|C:/2-2/COMEX/week4/cla_clk/rca_clk.v|
+!i113 1
+R10
+R11
+R12
+vtb_rca_clk
+R13
+!i10b 1
+!s100 MAU68g_SzJglk^<H@S:c>0
+IO>_m[VlkA1HU]A=>gIa2W3
+R2
+R0
+w1664894568
+8C:/2-2/COMEX/week4/cla_clk/tb_rca_clk.v
+FC:/2-2/COMEX/week4/cla_clk/tb_rca_clk.v
+L0 3
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/2-2/COMEX/week4/cla_clk/tb_rca_clk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/2-2/COMEX/week4/cla_clk|C:/2-2/COMEX/week4/cla_clk/tb_rca_clk.v|
+!i113 1
+R10
+R11
+R12
