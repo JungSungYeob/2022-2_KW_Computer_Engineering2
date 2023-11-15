@@ -1,0 +1,6 @@
+Warning (10273): Verilog HDL warning at multiplier_ns.v(35): extended using "x" or "z" File: C:/2-2/COMEX/week10/multiplier/multiplier_ns.v Line: 35
+Warning (10268): Verilog HDL information at multiplier_out.v(22): always construct contains both blocking and non-blocking assignments File: C:/2-2/COMEX/week10/multiplier/multiplier_out.v Line: 22
+Warning (10273): Verilog HDL warning at multiplier_out.v(76): extended using "x" or "z" File: C:/2-2/COMEX/week10/multiplier/multiplier_out.v Line: 76
+Warning (10273): Verilog HDL warning at multiplier_out.v(90): extended using "x" or "z" File: C:/2-2/COMEX/week10/multiplier/multiplier_out.v Line: 90
+Warning (10273): Verilog HDL warning at multiplier_out.v(91): extended using "x" or "z" File: C:/2-2/COMEX/week10/multiplier/multiplier_out.v Line: 91
+Warning (10268): Verilog HDL information at multiplier_out.v(36): always construct contains both blocking and non-blocking assignments File: C:/2-2/COMEX/week10/multiplier/multiplier_out.v Line: 36
